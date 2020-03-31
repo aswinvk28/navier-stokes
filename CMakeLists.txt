@@ -28,7 +28,7 @@ set(INC_DIR
     /opt/intel/compilers_and_libraries_2018.2.199/linux/mkl/include/
     ${CMAKE_CURRENT_SOURCE_DIR}/include/
 )
-include_directories (${CMAKE_CURRENT_SOURCE_DIR}/../autodiff ${INC_DIR})
+include_directories (AUTODIFF ${INC_DIR})
 link_directories( ${LIB_DIR} )
 
 set (CMAKE_CXX_FLAGS "-fopenmp -std=c++17")
