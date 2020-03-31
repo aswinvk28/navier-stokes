@@ -14,7 +14,7 @@ The respository link for the benchmark model is provided below:
 
 [https://github.com/aswinvk28/cpp-performance-math-problems-benchmark](https://github.com/aswinvk28/cpp-performance-math-problems-benchmark)
 
-![eqn-navier](./navier-stokes/eqn-navier.png)
+![eqn-navier](./eqn-navier.png)
 
 # Performance Optimization
 
